@@ -1,1 +1,1 @@
-# CalculatorJS-Section
+# Calculator
